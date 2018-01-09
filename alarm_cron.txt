@@ -1,0 +1,3 @@
+MAILTO=ashwinkumar.chalkapure@gmail.com
+
+59 16 * * * python /home/ashwin/PycharmProjects/Random_Projects/alarm_clock.py
